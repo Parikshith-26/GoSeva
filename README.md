@@ -112,21 +112,15 @@ npm run mobile:open
 
 ---
 
-## 🏗 Build APK
+📱 APK Download (Live URL)
 
-In Android Studio:
+The Android APK file for GoSeva Tracker is stored in Google Drive.
 
-```text
-Build → Build APK(s)
-```
+APK Download Link
 
-Generated APK location:
+Google Drive APK link here:
 
-```text
-android/app/build/outputs/apk/debug/
-```
-
----
+https://drive.google.com/drive/folders/17LI6fu2luDQJ8UpjlpINYP41rSbZx2in?usp=sharing\
 
 ## 🎯 Problem Statement
 
