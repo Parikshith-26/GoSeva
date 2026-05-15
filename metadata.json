@@ -1,0 +1,14 @@
+{
+  "name": "GoSeva Tracker",
+  "description": "A comprehensive digital health passport and milk yield tracker for cattle, designed for small-scale farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Offline Functionality",
+    "Milk Yield Analytics",
+    "Health & Vaccination Tracking",
+    "AI-Powered Insights"
+  ]
+}

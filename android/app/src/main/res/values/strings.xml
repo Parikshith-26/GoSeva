@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GoSeva</string>
+    <string name="title_activity_main">GoSeva</string>
+    <string name="package_name">com.goseva.app</string>
+    <string name="custom_url_scheme">com.goseva.app</string>
+</resources>
