@@ -1,4 +1,4 @@
-# GoSeva Tracker 🐄
+# Gokula Health 🐄
 
 GoSeva Tracker is a smart cattle health and milk yield management application designed for small-scale farmers. The app helps farmers digitally manage livestock records, monitor milk production, track vaccinations, and receive AI-powered insights for better cattle care and productivity.
 
